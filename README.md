@@ -6,7 +6,7 @@ location, and experience, with specific weights assigned to each. This project a
 the freelance hiring process, provide fair opportunities for freelancers, and ensure a 
 seamless user experience.
 
-![image](https://github.com/OlayinkaPeter/marketplace-matching/blob/master/src/screenshot_.png)
+![image](https://github.com/OlayinkaPeter/marketplace-matching/blob/main/src/screenshot_.png)
 
 ## Getting Started
 
