@@ -3,7 +3,17 @@ from fastapi import FastAPI, status, HTTPException
 from src.utils import calculate_match_score, buyer_, freelancers_
 from src.schema import User, MatchRequest
 
-app = FastAPI()
+TITLE = "Freelance Marketplace Matching"
+DESCRIPTION = """
+Freelance Marketplace Matching 🚀 
+"""
+
+app = FastAPI(
+    title=TITLE,
+    description=DESCRIPTION,
+    version="0.1",
+    redoc_url=None,
+)
 
 
 @app.post("/match")

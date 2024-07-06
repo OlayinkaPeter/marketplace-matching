@@ -1,4 +1,4 @@
-# Freelance Marketplace Matching Algorithm
+# Freelance Marketplace Matching
 
 This repository contains a FastAPI application that implements a matching algorithm to connect 
 employers / buyers with freelancers based on predefined criteria. The criteria considered are skills, 
