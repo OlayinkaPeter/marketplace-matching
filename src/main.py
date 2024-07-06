@@ -5,7 +5,7 @@ from src.schema import User, MatchRequest
 
 TITLE = "Freelance Marketplace Matching"
 DESCRIPTION = """
-Freelance Marketplace Matching 🚀 
+Olayinka Peter O. 🚀 
 """
 
 app = FastAPI(
